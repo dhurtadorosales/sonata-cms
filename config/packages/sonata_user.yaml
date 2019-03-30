@@ -1,0 +1,2 @@
+sonata_user:
+#    mailer: custom.mailer.service.id
